@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Samuel Bedoya Gómez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23002244&size=30&center=true&vCenter=true&width=600&height=100&lines=Game+Programmer;Digital+Entertainment;Unity+C-sharp;Always+learning+new+things;Passionate+about+videogames">
+  <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23004992&size=30&center=true&vCenter=true&width=600&height=100&lines=Game+Programmer;Digital+Entertainment;Unity+C-sharp;Always+learning+new+things;Passionate+about+videogames">
 </a>
 
 </p>
