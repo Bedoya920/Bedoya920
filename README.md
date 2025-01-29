@@ -7,10 +7,10 @@
 - :school: Communication and Digital Entertainment at the [Universidad de Medellín](https://comunicacion.udemedellin.edu.co/carrera-en-comunicacion-y-entretenimiento-digital/#gsc.tab=0).
 - I've been working as a programming teacher for kids at [Algorithmics Medellín](https://www.linkedin.com/company/algorithmics-medellin/posts/?feedView=all) for over two years.
 - Game Programmer 🦾
-- Passionate about videogame entertainment industry and development 🎮
+- Passionate about videogames🎮
 - Great communication skills💬
-- Leadership aptitude⚡
-- 🤜🤛 I like to work in a team and as a team.
+- Leadership skills⚡
+- Team-oriented and collaborative mindset🤜🤛 
 
  
 ## 🛠️ Main Tools
@@ -18,9 +18,11 @@
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&color=purple&link=https%3A%2F%2Funity.com%2Fes)
 ![Static Badge](https://img.shields.io/badge/C_Sharp-black?style=for-the-badge&logo=C%23&color=%23512BD4&link=https%3A%2F%2Funity.com%2Fes)
 [![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/create)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 ## 🛠️ Other Tools
 ![Static Badge](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe%20photoshop&color=white&link=https%3A%2F%2Funity.com%2Fes)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Premier Pro](https://img.shields.io/badge/Premier%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 
 
