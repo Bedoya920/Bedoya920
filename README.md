@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Samuel Bedoya Gómez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%004992&size=30&center=true&vCenter=true&width=600&height=100&lines=Game+Programmer;Digital+Entertainment;Unity+C-sharp;Always+learning+new+things;Passionate+about+videogame"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%002244&size=30&center=true&vCenter=true&width=600&height=100&lines=Game+Programmer;Digital+Entertainment;Unity+C-sharp;Always+learning+new+things;Passionate+about+videogames"></a>
 </p>
 
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJzZmNhcHNhc2RwbThhZXhjY2kydnB3N2RoNWlpd3pjNWRuZzQwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width = 50px></picture> About me 
